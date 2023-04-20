@@ -142,16 +142,16 @@ CV %<>% print_section('teaching_positions')
 <br>
 <br>
 
-Selected Publications, Posters, and Talks {data-icon=book}
+ Selected Publications, Posters, and Talks {data-icon=book}
 --------------------------------------------------------------------------------
 
-```{r}
+```{r }
 CV %<>% print_section('academic_articles')
 ```
 
 
 
-```{r}
+```{r eval=FALSE}
 CV %<>% print_links()
 ```
 
