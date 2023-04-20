@@ -137,7 +137,7 @@ CV %<>% print_text_block('teaching_experience_aside')
 CV %<>% print_section('teaching_positions')
 ```
 
-<!-- These breaks just force a new page so section doesnt get cut off -->
+<!-- These breaks just force a new page so section doesn't get cut off -->
 <br>
 <br>
 <br>
@@ -145,7 +145,7 @@ CV %<>% print_section('teaching_positions')
  Selected Publications, Posters, and Talks {data-icon=book}
 --------------------------------------------------------------------------------
 
-```{r }
+```{r}
 CV %<>% print_section('academic_articles')
 ```
 
